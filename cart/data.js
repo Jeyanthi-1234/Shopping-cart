@@ -1,1 +1,76 @@
-
+let shopItemsData=[{
+  id:"casual",
+  name:"Casual Shirt",
+  price:"45",
+  desc:"Lorem ipsum dolor sit amet, consectetur adipisicing.",
+  img:"images/img-1.jpg",
+},{
+  id:"Office",
+  name:"Office Shirt",
+  price:" 100",
+  desc:"Lorem ipsum dolor sit amet, consectetur adipisicing.",
+  img:"images/img-2.jpg",
+},{
+  id:"tshirt",
+  name:"T-shirt",
+  price:"25",
+  desc:"Lorem ipsum dolor sit amet, consectetur adipisicing.",
+  img:"images/img-3.jpg",
+},{
+  id:"suit",
+  name:"Mens Suit",
+  price:" 300",
+  desc:"Lorem ipsum dolor sit amet, consectetur adipisicing.",
+  img:"images/img-4.jpg",
+},{
+  id:"jacket",
+  name:"Jacket",
+  price:" 200",
+  desc:"Lorem ipsum dolor sit amet, consectetur adipisicing.",
+  img:"images/img-5.jpg",
+},{
+  id:"bag",
+  name:"bag",
+  price:"50",
+  desc:"Lorem ipsum dolor sit amet, consectetur adipisicing.",
+  img:"images/img-11.jpg",
+},{
+  id:"shoe",
+  name:"shoe",
+  price:" 75",
+  desc:"Lorem ipsum dolor sit amet, consectetur adipisicing.",
+  img:"images/img-8.jpg",
+},
+{
+  id:"bluesuit",
+  name:"suit",
+  price:"280",
+  desc:"Lorem ipsum dolor sit amet, consectetur adipisicing.",
+  img:"images/img-6.jpg",
+},
+{
+  id:"western",
+  name:"western top",
+  price:"60",
+  desc:"Lorem ipsum dolor sit amet, consectetur adipisicing.",
+  img:"images/img-10.jpg",
+},{
+  id:"hat",
+  name:"Hat",
+  price:"25",
+  desc:"Lorem ipsum dolor sit amet, consectetur adipisicing.",
+  img:"images/img-12.jpg",
+},{
+  id:"boot",
+  name:"Boot",
+  price:"300",
+  desc:"Lorem ipsum dolor sit amet, consectetur adipisicing.",
+  img:"images/img-9.jpg",
+},{
+  id:"tie",
+  name:"Mens Tie",
+  price:"20",
+  desc:"Lorem ipsum dolor sit amet, consectetur adipisicing.",
+  img:"images/img-7.jpg",
+},
+];
